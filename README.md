@@ -9,7 +9,7 @@
 <details><summary><b>Deploy to Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/ShikariBaaZ/Lawless_RenamerBot">
+<a href="https://heroku.com/deploy?template=https://github.com/aryanmaxpain/Lawless_RenamerBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
